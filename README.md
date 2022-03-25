@@ -10,11 +10,11 @@ There are two piles in the middle of the board. The left pile is the pickup pile
 The aim of the game is to have no cards left in your deck. Each turn a player can either select a card from their pile which matches the card on top of the putdown pile, or, they can pickup a new card from the pickup pile if they have no matching cards.
 
 ## 3 Files
-a2.py - main game logic
-a2_support.py - contains supporting code and part of the controller
-gui.py - contains the view
-player.txt - a list of random player names to use for computer players
-images/ - a directory of card images
+* a2.py - main game logic 
+* a2_support.py - contains supporting code and part of the controller 
+* gui.py - contains the view 
+* player.txt - a list of random player names to use for computer players 
+* images/ - a directory of card images
 
 ## 4 Classes
 ### 4.1 Cards
