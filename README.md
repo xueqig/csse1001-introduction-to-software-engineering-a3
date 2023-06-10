@@ -1,4 +1,7 @@
-# UNO++
+# CSSE1001 Introduction to Software Engineering
+
+# Assignment 3 UNO++
+
 ## 1 Introduction
 This project follows a programming pattern called MVC (the Model, View, Controller) pattern.
 
